@@ -6,7 +6,7 @@ A simple programme that calculates the sum of two numbers.
 gcc sumcalc.c -o sumcalc
 ```
 
-## Executiom
+## Execution
 ``` bash
 ./sumcalc
 ```
